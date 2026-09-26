@@ -11,7 +11,7 @@ Cloud Engineering Internship, Cohort 3.
 ## Members
 
 | Name | GitHub | Owns |
-|Bernard Asante Yeboah|maverickhub369|---|
+|Lukeman Abubakar|lukemanA|---|
 | | | |
 
 Fill this in during week 1. Every person should have a row, and by week 5
@@ -31,4 +31,4 @@ should be able to follow this section and get the app running._
 ## Decisions
 
 Write down why you chose what you chose, in `docs/`. One short file per
-decision. You will be asked about these in week 7.
+decision. You will be asked about these in week 5.
